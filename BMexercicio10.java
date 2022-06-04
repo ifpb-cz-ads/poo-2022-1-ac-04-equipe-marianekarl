@@ -7,7 +7,7 @@ public class BMexercicio10.java {
      Do {
       system.out.print (x + " ");
       valor += 1;
-    while (numero <=20);
+    while (valor <=20);
         
     }
   }
